@@ -1,2 +1,1 @@
-# -
 ![GPU animada](giphy.gif)
