@@ -3,7 +3,7 @@
   
 
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=78B800&lines=A❤️+❤️J" width="350" height="250" style="display:inline-block;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=78B800&lines=Hello+world" width="350" height="250" style="display:inline-block;">
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeLeon09J&show_icons=true&theme=tokyonight)
